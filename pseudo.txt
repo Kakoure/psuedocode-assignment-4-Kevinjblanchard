@@ -1,0 +1,15 @@
+War
+
+Instructions:
+Each player plays the top card from their deck at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom of their stack.
+If the cards have the same value, each player places down three cards face down and one card face up. 
+The player with the higher card gets all of the played cards played that turn.
+If the cards are the same again, repeat the process until the cards are different.
+
+
+First 3 turns:
+While (Turn < 4)
+  While both players have > 0 cards in their deck
+    Each player plays the top card from their deck at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom of their stack.
+     If the two cards have the same value, each player places down three cards face down and one card face up. The player with the higher card gets all of the cards played that turn.
+       If the two cards have the same value, repeat the process until the cards are different.
