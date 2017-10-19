@@ -1,31 +1,23 @@
 War
+By: Kevin Blanchard - 1st period
 
-Instructions:
+INSTRUCTIONS
 Each player plays the top card from their deck at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom of their stack.
 If the cards have the same value, each player places down three cards face down and one card face up. 
 The player with the higher card gets all of the played cards played that turn.
 If the cards are the same again, repeat the process until the cards are different.
 
-Turn 1:
-  While both players have > 0 cards in their deck
-    Each player plays the top card from their deck and places it in the middle
-      The player with the higher valued card takes both cards and puts them, face down, on the bottom of their stack.
-    If the two cards have the same value, each player places down three cards face down and one card face up. The player with the higher card gets all of the cards played that turn.
-       If the two cards have the same value, repeat the process until the cards are different.
-          //The person who has the higher value card will win all of them.
-
-Turn 2:
-  While both players have > 0 cards in their deck
-    Each player plays the top card from their deck and places it in the middle
-      The player with the higher valued card takes both cards and puts them, face down, on the bottom of their stack.
-    If the two cards have the same value, each player places down three cards face down and one card face up. The player with the higher card gets all of the cards played that turn.
-       If the two cards have the same value, repeat the process until the cards are different.
-          //The person who has the higher value card will win all of them.
-         
-Turn 3:
-  While both players have > 0 cards in their deck
-    Each player plays the top card from their deck and places it in the middle
-      The player with the higher valued card takes both cards and puts them, face down, on the bottom of their stack.
-    If the two cards have the same value, each player places down three cards face down and one card face up. The player with the higher card gets all of the cards played that turn.
-       If the two cards have the same value, repeat the process until the cards are different.
-          //The person who has the higher value card will win all of them.
+TURNS
+Take out Jokers.
+Shuffle cards.
+Give each player (1/number of players playing) of the deck.
+Ace is the highest valued card.
+2 is the lowest valued card.
+While more than 1 player has more than 0 cards in their deck:
+  All players place the top card of their deck into the middle area.
+  If a single player has a card greater than any other player:
+    Then the player with the highest valued card takes all of the cards in the middle and puts them at the bottom of his deck.
+  While 2 or more players played equal valued cards into the middle that were valued higher than any other card played:
+    Then each player who played an equal valued card places three cards face down and one card face up into the middle.
+    The player with the higher card gets all of the cards played that turn.
+The player with all 52 cards wins. 
